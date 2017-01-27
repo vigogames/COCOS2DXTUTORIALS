@@ -1,2 +1,2 @@
-# COCOS2DXTUTORIALS
-This repository contains all the code for the cocos2d-x tutorials available at www.vigogames.com
+Please note that we only included the (HelloWorldScene.cpp, HelloWorldScene.h) class and the image(vigogames_logo.png) asset required to follow this tutorial, you must have Cocos2D-X installed on your system and you must create a new project and include these files in that project. For more information on how to install Cocos2D-X, please go to http://vigogames.com/2017/01/23/installing-cocos2d-x/. If you have already installed Cocos2D-X and you are struggling to create a new project, please go to http://vigogames.com/2017/01/25/starting-a-new-cocos2d-x-project/.
+
